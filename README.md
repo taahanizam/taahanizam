@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @taahanizam
-- 👀 I’m interested in Blockchain
+- 👀 I’m the founder and CEO of HashCase.co
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Smart contracts on the erc standard
-- 📫 How to reach me 
-Twitter @CryptoDude_eth
+- 📫 How to reach me
+Email taaha@hashcase.co
+Twitter @taahanizam
 Discord CryptoDude#8213
 Telegram @taahanizam
 <!---
